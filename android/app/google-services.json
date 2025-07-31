@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341424106590",
+    "firebase_url": "https://attendscan-default-rtdb.firebaseio.com",
+    "project_id": "attendscan",
+    "storage_bucket": "attendscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341424106590:android:a6c3af5364d3d6c99a18cf",
+        "android_client_info": {
+          "package_name": "com.example.attendscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATJTAaisHwJ4H8eo_9HdMRsXILZe3Ukw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
