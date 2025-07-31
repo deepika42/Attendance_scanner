@@ -1,13 +1,13 @@
 
-<img width="513" height="308" alt="image" src="https://github.com/user-attachments/assets/1339c201-33bd-4240-b519-4ffad5d94384" />
+<img width="313" height="200" alt="image" src="https://github.com/user-attachments/assets/1339c201-33bd-4240-b519-4ffad5d94384" />
 
 Attendance monitoring must be efficient and accurate in today's fast-paced educational environment. Our Student Attendance Application uses QR code technology to simplify, secure, and streamline attendance management.
 
 Key Features:
 
-Multi-Role Access: Customized portals for administrators, teachers, and students ensure that each user experiences functionalities tailored to their specific needs.
-QR Code Scanning: Students can mark their attendance instantly by scanning a QR code for each class, reducing time spent on manual roll calls and minimizing errors.
-Comprehensive Management Tools: Administrators have the authority to manage user access, assign courses to teachers, and oversee the overall academic schedule, making administrative tasks more efficient.
+1. Multi-Role Access: Customized portals for administrators, teachers, and students ensure that each user experiences functionalities tailored to their specific needs.
+2. QR Code Scanning: Students can mark their attendance instantly by scanning a QR code for each class, reducing time spent on manual roll calls and minimizing errors.
+3. Comprehensive Management Tools: Administrators have the authority to manage user access, assign courses to teachers, and oversee the overall academic schedule, making administrative tasks more efficient.
 
 User Authentication Module:
 Registration functionality for new users.
